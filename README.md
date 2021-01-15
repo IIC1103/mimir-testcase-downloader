@@ -20,3 +20,5 @@ module.exports = {
   password: 'yourPassword'
 }
 `
+
+where email and password is the information from Mimir
